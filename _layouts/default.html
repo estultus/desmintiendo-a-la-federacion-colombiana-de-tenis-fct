@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+  <link rel="canonical" href="https://estultus.github.io/desmintiendo-a-la-federacion-colombiana-de-tenis-fct/">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="es_CO">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:url" content="https://estultus.github.io/desmintiendo-a-la-federacion-colombiana-de-tenis-fct/">
+  <meta name="twitter:card" content="summary">
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Article",
+    "headline":"Aclaración jurídica sobre el comunicado de la Federación Colombiana de Tenis del 19 de noviembre de 2024",
+    "description":"Aclaración jurídica y documental sobre el comunicado de la Federación Colombiana de Tenis (FCT) del 19 de noviembre de 2024 relativo a Andrés Felipe Estupiñán Bohórquez.",
+    "inLanguage":"es",
+    "author":{"@type":"Organization","name":"Equipo Jurídico de AFEB"},
+    "about":[{"@type":"Person","name":"Andrés Felipe Estupiñán Bohórquez"},{"@type":"Organization","name":"Federación Colombiana de Tenis"}],
+    "mainEntityOfPage":"https://estultus.github.io/desmintiendo-a-la-federacion-colombiana-de-tenis-fct/"
+  }
+  </script>
+  <style>
+    :root{--ink:#17202a;--muted:#5d6672;--navy:#12263a;--blue:#183b63;--gold:#b08d57;--line:#dfe5eb;--paper:#fff;--bg:#f4f6f8;--note:#eef4f9}
+    *{box-sizing:border-box} html{scroll-behavior:smooth}
+    body{margin:0;background:var(--bg);color:var(--ink);font-family:Georgia,"Times New Roman",serif;line-height:1.72}
+    a{color:#075ca8;text-decoration-thickness:1px;text-underline-offset:2px;overflow-wrap:anywhere} a:hover{text-decoration-thickness:2px}
+    header{background:var(--navy);color:white;border-bottom:4px solid var(--gold)}
+    .head{max-width:960px;margin:auto;padding:40px 28px 34px}
+    .kicker{font:600 12px/1.4 Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;opacity:.78}
+    .site-title{font-size:31px;line-height:1.2;font-weight:700;margin:9px 0 8px}
+    .site-sub{font:400 16px/1.5 Arial,sans-serif;max-width:840px;opacity:.9}
+    article{max-width:960px;margin:34px auto 56px;background:var(--paper);padding:48px 60px 58px;border:1px solid var(--line);box-shadow:0 10px 30px rgba(18,38,58,.06)}
+    h1{font-size:36px;line-height:1.18;margin:0 0 19px;color:var(--navy)}
+    h2{font-size:24px;line-height:1.28;margin:42px 0 15px;color:var(--blue);border-top:1px solid var(--line);padding-top:25px}
+    p{font-size:18px;margin:0 0 19px;text-align:justify}
+    .byline{font:15px/1.55 Arial,sans-serif;text-align:left;color:var(--muted);padding:15px 17px;background:var(--note);border-left:4px solid #567a9f;margin:0 0 34px}
+    strong{color:#111923}
+    blockquote{margin:24px 0;padding:15px 22px;background:#faf8f4;border-left:4px solid var(--gold)}
+    .footnotes{margin-top:44px;border-top:2px solid var(--line);padding-top:20px}.footnotes p,.footnotes li{font-size:15px;text-align:left}
+    footer{max-width:960px;margin:0 auto 45px;padding:0 28px;color:var(--muted);font:14px/1.6 Arial,sans-serif;text-align:center}
+    @media(max-width:720px){.head{padding:29px 20px}.site-title{font-size:27px}article{margin:0;border:0;box-shadow:none;padding:32px 20px 44px}h1{font-size:29px}h2{font-size:22px}p{font-size:17px;text-align:left}}
+    @media print{body{background:white}header{display:none}article{box-shadow:none;border:0;margin:0;max-width:none;padding:0}a{color:black;text-decoration:none}}
+  </style>
+</head>
+<body>
+<header><div class="head"><div class="kicker">Equipo Jurídico de AFEB</div><div class="site-title">Aclaración jurídica y documental</div><div class="site-sub">Comunicado de la Federación Colombiana de Tenis (FCT) del 19 de noviembre de 2024 relativo a Andrés Felipe Estupiñán Bohórquez</div></div></header>
+<article id="contenido">{{ content }}</article>
+<footer>Publicación documental del Equipo Jurídico de AFEB. El contenido será actualizado cuando nuevas decisiones o documentos oficiales modifiquen sustancialmente los antecedentes expuestos.</footer>
+<script>
+(function(){
+  const article=document.getElementById('contenido');
+  const ps=[...article.querySelectorAll(':scope > p')];
+  let strongOnly=ps.filter(p=>p.children.length===1 && p.firstElementChild && p.firstElementChild.tagName==='STRONG' && p.textContent.trim()===p.firstElementChild.textContent.trim());
+  if(strongOnly[0]){const h=document.createElement('h1');h.innerHTML=strongOnly[0].innerHTML;strongOnly[0].replaceWith(h)}
+  strongOnly= [...article.querySelectorAll(':scope > p')].filter(p=>p.children.length===1 && p.firstElementChild && p.firstElementChild.tagName==='STRONG' && p.textContent.trim()===p.firstElementChild.textContent.trim());
+  if(strongOnly[0]) strongOnly[0].classList.add('byline');
+  strongOnly.slice(1).forEach(p=>{const h=document.createElement('h2');h.innerHTML=p.innerHTML; p.replaceWith(h)});
+})();
+</script>
+</body>
+</html>
