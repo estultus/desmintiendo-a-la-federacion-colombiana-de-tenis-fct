@@ -6,13 +6,19 @@ description: "Aclaración jurídica y documental sobre el comunicado de la Feder
 
 **Aclaración jurídica sobre el comunicado de la Federación Colombiana de Tenis del 19 de noviembre de 2024**
 
-**Equipo Jurídico de Andrés Felipe Estupiñán Bohórquez (AFEB), médico del deporte y registrado ante la Federación Colombiana de Tenis (FCT) en calidad de entrenador, identificado con el código FCT31968 en su carné virtual vigente.**
+**El equipo Jurídico de Andrés Felipe Estupiñán Bohórquez, registrado ante la Federación Colombiana de Tenis (FCT) en calidad de entrenador, identificado con el código FCT31968 en su carné virtual vigente, se permite expresar lo siguiente:**
 
 **Una precisión necesaria**
 
 Esta publicación tiene por objeto aclarar el alcance jurídico y documental del comunicado difundido por la Federación Colombiana de Tenis (FCT) el 19 de noviembre de 2024 respecto de Andrés Felipe Estupiñán Bohórquez. Su finalidad es aportar elementos verificables para que la opinión pública distinga entre las afirmaciones engañosas de una organización (FCT), el contenido de una diligencia judicial y una declaración de responsabilidad penal.
 
 La aclaración conserva actualidad porque el [comunicado permanece disponible en el sitio oficial de la FCT](https://fedecoltenis.com/site/3368?galeria=1). En la versión consultada, la Federación presenta como «confesión» un material recibido en sus correos institucionales, atribuye a Estupiñán el suministro de «información calumniosa e injuriosa» y emplea, posteriormente, la expresión «calumnias, injurias y otras conductas delictivas». Estas afirmaciones deben examinarse junto con los antecedentes judiciales posteriores y con las garantías constitucionales que protegen a toda persona frente a la atribución de culpabilidad. [fedecoltenis.com](https://fedecoltenis.com/site/3368?galeria=1)
+
+Estupiñán ha sido crítico de la gestión de la Federación Colombiana de Tenis y expresó sus puntos de vista desde unas cuentas de redes sociales sin su identidad personal, buscando centrar el debate en las decisiones institucionales y no en las personas. Estas publicaciones son el ejercicio legítimo de la libertad de expresión y opinión sobre un asunto de interés deportivo, no un intento deliberado de dañar la honra de nadie.
+
+En una diligencia judicial, Estupiñán reconoció libre y voluntariamente ser el autor de esas publicaciones. Admitir la autoría no equivale a confesar un delito: no existe sentencia ni decisión judicial que haya declarado que esas publicaciones fueran injuriosas o calumniosas.
+
+La jurisprudencia colombiana protege con especial fuerza la opinión crítica, incluso la incómoda o severa, y distingue entre la intención de injuriar (*animus injuriandi*) y la de criticar, narrar o hacer humor. Las publicaciones en cuestión respondían a un propósito crítico sobre la gestión federativa, no a una voluntad de ofender a nadie, por lo que no se niega su autoría; lo que se rechaza es que la Federación la presente unilateralmente como una "confesión" de culpabilidad que ningún juez ha establecido. Y la gravedad de esa caracterización es mayor porque proviene precisamente de la entidad objeto de la crítica, que tiene un interés evidente en desprestigiar a su crítico en lugar de responder al fondo del cuestionamiento.
 
 **El comunicado no acredita, por sí mismo, responsabilidad penal de Andrés Felipe Estupiñán Bohórquez.** Su procedencia institucional no le confiere el carácter de sentencia ni permite atribuir a una declaración judicial efectos que únicamente pueden establecerse mediante los procedimientos y las garantías del ordenamiento jurídico.
 
